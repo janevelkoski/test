@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\InformatorApp.iml" filepath="C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\InformatorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InformatorApp-master.iml" filepath="$PROJECT_DIR$/InformatorApp-master.iml" />
+      <module fileurl="file://C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\RotaryInformatorApp.iml" filepath="C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\RotaryInformatorApp.iml" />
+      <module fileurl="file://C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\android-pdfview\android-pdfview.iml" filepath="C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\android-pdfview\android-pdfview.iml" />
+      <module fileurl="file://C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\app\app.iml" filepath="C:\Users\JANE\Desktop\Diplomska Jane\InformatorApp-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
